@@ -36,8 +36,9 @@ h1{
     background-color: #b8e6b8;
     margin: auto;
     padding: 30px;
+    padding-top: 5px;
     border-radius: 40px;
-    margin-top: 30px
+    margin: 10px 0px 30px 500px;
 }
 
 .form-group{
@@ -50,7 +51,7 @@ label{
     font-size: 18px;
 }
 input{
-    width:240px;
+    width:300px;
    
     padding:8px;
     border: none;
