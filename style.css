@@ -16,11 +16,14 @@ th,td{
     border-bottom: 1px solid black;
 }
 th{
-    background-color: #0a6995;
+    background-color: #064360;
     color: rgb(252,247,247);
 }
 tr{
-    background-color: #ccedf1;
+    background-color: #e1f1f3;
+}
+h1{
+    text-align: center;
 }
 .form-container h3{
     text-align: center;
